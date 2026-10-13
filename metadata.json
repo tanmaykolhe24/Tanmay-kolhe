@@ -1,0 +1,6 @@
+{
+  "name": "TIMEGENIUS AI",
+  "description": "LEVEL UP YOUR LIFE. AI-Powered Student Productivity, Time Management, and RPG Gamification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
